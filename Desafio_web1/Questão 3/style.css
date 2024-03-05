@@ -1,0 +1,11 @@
+
+div{
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px 2px rgb(32, 32, 32);
+    margin: 20px ;
+    position: 10px 10px;
+    text-align: center;
+
+}

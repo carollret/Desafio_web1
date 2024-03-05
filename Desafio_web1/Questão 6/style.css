@@ -1,0 +1,22 @@
+table {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+
+td {
+    padding: 10px;
+   
+}
+
+
+tr:first-child {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+
+td:last-child {
+    background-color: lightgreen;
+}

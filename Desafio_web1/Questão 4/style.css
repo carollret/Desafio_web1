@@ -1,0 +1,22 @@
+.imagem {
+    background-image: url(https://www.alura.com.br/artigos/assets/sistema-codigo-binario/sistema-codigo-binario.png); 
+    background-size: cover;
+    border-radius: 20px;
+    padding: 20px;    
+}
+
+.caixa-branca {
+    background-color: white;
+    border: solid 1px black;
+    padding: 10px;  
+
+}
+
+.caixa-preta{
+    background-color: black;
+    border: solid 1px black;
+    padding: 10px;
+    color: white;  
+   
+
+}

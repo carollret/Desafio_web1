@@ -1,0 +1,19 @@
+.minhaLista li {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: white;
+}
+
+
+.minhaLista li:first-child {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+
+.minhaLista li:last-child {
+    background-color: lightgreen;
+    border: none;
+}
